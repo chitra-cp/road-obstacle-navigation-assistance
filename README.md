@@ -7,7 +7,7 @@ This project implements a real-time **road obstacle detection and navigation ass
 - Dataset conversion from KITTI to YOLO format
 - Real-time object detection with voice alerts
 - Obstacle distance estimation for navigation decisions
-- Evaluation using precision, recall, and accuracy (no ground truth needed)
+- Evaluation using precision, recall, and accuracy 
 - Full video and image processing using OpenCV
 
 ## ⚙️ Technologies Used
