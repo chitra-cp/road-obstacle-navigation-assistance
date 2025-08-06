@@ -1,0 +1,5 @@
+path: C:/Users/chitr/Downloads/YOLOv8_obstacle_dataset
+train: images/train
+val: images/test
+nc: 11
+names: ["Car", "Pedestrian", "Cyclist", "Person", "Bicycle", "Motorcycle", "Bus", "Truck", "Traffic_cone", "Pothole", "Barrier"]
