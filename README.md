@@ -1,4 +1,4 @@
-# Road Obstacle Detection and Navigation Assistance using YOLOv8
+# Road Obstacle Detection and Navigation Assistance using Deep Learning
 
 This project implements a real-time **road obstacle detection and navigation assistance system** using the **YOLOv8 object detection model**. It includes automated voice alerts suggesting left/right navigation based on obstacle type, position, and proximity. The system supports preprocessing, training, evaluation, and full video/image testing.
 
